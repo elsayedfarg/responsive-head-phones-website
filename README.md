@@ -21,9 +21,10 @@ To set up this project locally, follow these steps:
    git clone https://github.com/elsayedfarg/responsive-head-phones-website.git
 
 2. Navigate to the Project Directory
-   cd responsive-head-phones-website
+   ```bash
+   cd headphones-website
 
-3. Open the Project
+4. Open the Project
    Open index.html in your preferred web browser. For a dynamic experience, consider using a local server.
 
 Usage
